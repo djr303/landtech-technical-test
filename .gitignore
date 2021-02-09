@@ -1,0 +1,15 @@
+# dependencies
+client/node_modules
+server/node_modules
+/.pnp
+.pnp.js
+
+.client
+
+# testing
+/coverage
+
+/client/npm-debug.log*
+/server/npm-debug.log*
+/client/yarn-debug.log*
+/server/yarn-error.log*
